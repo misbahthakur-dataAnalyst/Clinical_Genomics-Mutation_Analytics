@@ -1,0 +1,7 @@
+Sample_ID,Researcher_Name,Lab_Zone,DNA_Mutation_count,Patient_Weight_Kg,Sequence_Verified
+1001,misbh,Genetics core,12.0,65.0,yes
+1002,ananya,,,72.0,yes
+1003,zaid,Bio-informatics,8.0,,no
+1004,adeeba,Genetics core,24.0,88.0,
+1005,kabir,,,54.0,yes
+1006,misbah,Bio-informatics,14.0,,no

@@ -1,0 +1,7 @@
+Sample_ID,Researcher_Name,Lab_Zone,DNA_Mutation_count,Patient_Weight_Kg,Sequence_Verified,Alert_Status
+1001,misbh,Genetics core,12.0,65.0,yes,Standard
+1002,ananya,General Zone,8.0,72.0,yes,Standard
+1003,zaid,Bio-informatics,8.0,88.0,no,Standard
+1004,adeeba,Genetics core,24.0,88.0,yes,High Priority
+1005,kabir,General Zone,14.0,54.0,yes,Standard
+1006,misbah,Bio-informatics,14.0,54.0,no,Standard
